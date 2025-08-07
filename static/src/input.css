@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Import dark mode styles */
+@import url('./dark-mode.css');
+
+@theme {
+  --color-primary: #3B82F6;
+  --color-secondary: #6366F1;
+}
